@@ -1,5 +1,7 @@
-tests   [![Build Status](https://travis-ci.org/ethereum/tests.svg?branch=develop)](https://travis-ci.org/ethereum/tests)
+tests
 =====
+
+Cloned for Wanchain by Tyrion70
 
 Common tests for all clients to test against. See the documentation http://ethereum-tests.readthedocs.io/
 
